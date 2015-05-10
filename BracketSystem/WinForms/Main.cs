@@ -15,6 +15,6 @@ namespace BracketSystem
         public Main()
         {
             InitializeComponent();
-        }
+        }     
     }
 }
